@@ -17,8 +17,8 @@ I enjoy solving problems, contributing to open-source, and experimenting with ne
 ---
 
 ### 📂 Featured Projects
-- 🛡️ **[Veilon Wallet](#)** – Cross-chain zk-privacy wallet  
-- 🤖 **[Agentify](#)** – AI-powered DeFi automation platform  
+- 🛒 **[X2 Sports](https://x2sportsrealm.us/)** – Transforming athletes into champions, our custom kits combine style.
+- 🤖 **[Agentify](https://www.agentifyai.org/)** – AI-powered DeFi automation platform  
 - 🌐 **[Omni Browser](#)** – Decentralized privacy browser with AI tools  
 
 ---
