@@ -34,4 +34,3 @@ I enjoy solving problems, contributing to open-source, and experimenting with ne
 - 💼 [LinkedIn](https://www.linkedin.com/in/eshwarlal/)  
 - ✈️ [Telegram](https://t.me/ASMODDEV)  
 - 🌐 [Portfolio](https://eshwarlal.com)  
-- Portfolio: [eshwarlal.com](#)
