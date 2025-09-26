@@ -29,8 +29,9 @@ I enjoy solving problems, contributing to open-source, and experimenting with ne
 
 ---
 
-### 🌍 Connect With Me
-- Instagram: https://www.instagram.com/ishwerlalessarani/?hl=en
-- LinkedIn: [https://www.linkedin.com/in/eshwarlal/](EshwarLal)
-- Telegram: [@ASMODDEV](#)
+### 🌍 Connect With Me  
+- 📸 [Instagram](https://www.instagram.com/ishwerlalessarani/?hl=en)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eshwarlal/)  
+- ✈️ [Telegram](https://t.me/ASMODDEV)  
+- 🌐 [Portfolio](https://eshwarlal.com)  
 - Portfolio: [eshwarlal.com](#)
