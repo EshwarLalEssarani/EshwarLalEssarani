@@ -24,12 +24,6 @@ I enjoy solving problems, contributing to open-source, and experimenting with ne
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=EshwarLalEssarani&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EshwarLalEssarani&layout=compact&theme=radical)
-
----
-
 ### 🌍 Connect With Me  
 - 📸 [Instagram](https://www.instagram.com/ishwerlalessarani/?hl=en)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eshwarlal/)  
