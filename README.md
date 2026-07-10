@@ -17,7 +17,7 @@ I enjoy solving problems, contributing to open-source, and experimenting with ne
 ---
 
 ### 📂 Featured Projects
-- 📚 **[Camblix](https://app.eshwarlal.com}** - AI-powered educational platform designed to simplify learning, student management, and digital education experiences.
+- 📚 **[Camblix](https://app.eshwarlal.com)** - AI-powered educational platform designed to simplify learning, student management, and digital education experiences.
 - 🛒 **[X2 Sports](https://x2sportsrealm.us/)** – Transforming athletes into champions, our custom kits combine style.
 - 🤖 **[Agentify](https://www.agentifyai.org/)** – AI-powered DeFi automation platform  
 - 🌐 **[Omni Browser](#)** – Decentralized privacy browser with AI tools  
